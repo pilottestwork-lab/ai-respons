@@ -1,9 +1,6 @@
-python-telegram-bot==3.10.13
+python-telegram-bot==20.0
 transformers
 torch
-
-python-dotenv
-
 flask
 
 
